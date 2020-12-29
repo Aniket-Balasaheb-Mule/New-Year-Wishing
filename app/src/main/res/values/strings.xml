@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Newyear Greet</string>
+    <string name="enter_the_name">Enter The Name</string>
+    <string name="create_newyear_card">Create Newyear Card</string>
+    <string name="input_hint_text">Aniket</string>
+</resources>
